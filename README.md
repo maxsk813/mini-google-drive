@@ -24,7 +24,7 @@ cd mini-google-drive
 ### 2. Cài đặt thư viện phụ thuộc
 
 ```bash
-npm install
+npm install express busboy googleapis
 ```
 
 ---
