@@ -11,6 +11,8 @@
 - Đã bật Google Drive API (xem hướng dẫn bên dưới)
 
 ---
+![Ảnh minh họa](Screenshot.png)
+---
 
 ## 🚀 Hướng dẫn cài đặt
 
